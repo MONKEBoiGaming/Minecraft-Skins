@@ -1,3 +1,3 @@
-## h1 Heading
-# Minecraft-Skins
+# Minecraft Skins
 These are minecraft skins i made
+## h1 Heading
