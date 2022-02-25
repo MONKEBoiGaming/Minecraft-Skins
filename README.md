@@ -3,11 +3,11 @@ These are minecraft skins i made
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Wallpapers</title>
+<title>Minecraft Skins</title>
 <link rel="icon" type="image/x-icon" href="favicon.ico">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="file:///C:/Users/Owner/Downloads/steve.png">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
 <script src="https://kit.fontawesome.com/ca51badd0d.js" crossorigin="anonymous"></script>
