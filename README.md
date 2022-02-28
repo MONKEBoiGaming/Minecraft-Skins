@@ -2,17 +2,21 @@
 These are minecraft skins i made
 
 
+
+
+ 
+  
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Wallpapers</title>
-<link rel="icon" type="image/x-icon" href="favicon.ico">
+<title>Home</title>
+ <link rel="icon" type="image/x-icon" href="favicon.ico">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
-<script src="https://kit.fontawesome.com/ca51badd0d.js" crossorigin="anonymous"></script>
+ <script src="https://kit.fontawesome.com/ca51badd0d.js" crossorigin="anonymous"></script>
 <style>
 body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 .w3-bar,h1,button {font-family: "Montserrat", sans-serif}
@@ -25,10 +29,9 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 <div class="w3-top">
   <div class="w3-bar w3-red w3-card w3-left-align w3-large">
     <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-white w3-large w3-red" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
-    
-    <a href="index.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Home</a>
-    <a href="wallpapers.html" class="w3-bar-item w3-button w3-padding-large w3-white">Wallpapers</a>
-    <a href="https://www.youtube.com/channel/UC2eqKFhL6xSImL1xQzUpotQ?sub_confirmation=1" target="_blank" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">YouTube</a>
+    <a href="index.html" class="w3-bar-item w3-button w3-padding-large w3-white">Home</a>
+    <a href="wallpapers.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Wallpapers</a>
+<a href="https://www.youtube.com/channel/UC2eqKFhL6xSImL1xQzUpotQ?sub_confirmation=1" target="_blank" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">YouTube</a>
   </div>
 
   <!-- Navbar on small screens -->
@@ -42,53 +45,43 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 
 <!-- Header -->
 <header class="w3-container w3-red w3-center" style="padding:128px 16px">
-  <h1 class="w3-margin w3-jumbo">Wallpapers</h1>
-  <button class="w3-button w3-black w3-padding-large w3-large w3-margin-top">Back to Home</button>
+  <h1 class="w3-margin w3-jumbo">Home</h1>
 </header>
 
 <!-- First Grid -->
 <div class="w3-row-padding w3-padding-64 w3-container">
   <div class="w3-content">
     <div class="w3-twothird">
-      <h1>Space Puffer</h1>
+      <h1>Hello</h1>
+      <h5 class="w3-padding-32">I make YouTube Videos with decent editing also here is where i host my awesome wallpapers.</h5>
+
+      <p class="w3-text-grey">BTW OBS is not working so I have that on my to-do list lol</p>
     </div>
-<img src="https://rainykazimir.github.io/SPACE%20PUFFERFISH.png" alt="Space pufferfish" width="960" height="540">
+    <div class="w3-third w3-center">
     </div>
   </div>
 </div>
 
 <!-- Second Grid -->
-<div class="w3-row-padding w3-padding-64 w3-container">
+<div class="w3-row-padding w3-light-grey w3-padding-64 w3-container">
   <div class="w3-content">
+    <div class="w3-third w3-center">
+      <i class="fa-brands fa-youtube fa-10x w3-padding-64 w3-text-red w3-margin-right"></i>
+    </div>
+
     <div class="w3-twothird">
-      <h1>Froot snaks</h1>
-    </div>  
-<img src="https://rainykazimir.github.io/Fruit%20snaks.png" alt="Space pufferfish" width="960" height="540">
-<div class="w3-row-padding w3-padding-64 w3-container">
-  <div class="w3-content">
-    <div class="w3-twothird">
-<h1>Taco</h1>
-    </div>  
-<img src="https://rainykazimir.github.io/Taco.png" alt="Taco" width="960" height="540">
+      <h1>One of my videos</h1>
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/FSUeurynntM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+      <p class="w3-text-grey">SUBSCRIBE RN</p>
     </div>
   </div>
 </div>
 
-	<div class="w3-row-padding w3-padding-64 w3-container">
-  <div class="w3-content">
-    <div class="w3-twothird">
-<h1>Land Puffer</h1>
-    </div>  
-<img src="Land puffer.png" alt="Land Puffer" width="960" height="540">
-	  <h5>Credits to my friend santiago he made this not me</h5>
-    </div>
-  </div>
-</div>
-	
 <div class="w3-container w3-black w3-center w3-opacity w3-padding-64">
-    <h1 class="w3-margin w3-xlarge">More wallpapers coming soon!</h1>
+    <h1 class="w3-margin w3-xlarge">Check out the wallpaper section for wallpapers!</h1>
+    <p class="w3-text-grey">Obviously LOL</p>
 </div>
-
 <!-- Footer -->
 <footer class="w3-container w3-padding-64 w3-center w3-opacity">  
   <div class="w3-xlarge w3-padding-32">
@@ -96,8 +89,10 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
     <a href="https://steamcommunity.com/id/Rainykazimir/" target="_blank"<i class="fa-brands fa-steam w3-hover-opacity"></i></a>
     <a href="https://discord.gg/w3AZPpRUDc" target="_blank"<i class="fa-brands fa-discord w3-hover-opacity"></i></a>
 
+</div>
  </div>
 </footer>
+
 <script>
 // Used to toggle the menu on small screens when clicking on the menu button
 function myFunction() {
